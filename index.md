@@ -11,5 +11,10 @@ public static void main(String[] args)
 }
 }
 ```
+- [ ] Apple
+- [ ] Banana
+- [x] cat
 
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
